@@ -1,6 +1,9 @@
 # I started to learn Shiny from Oct. 15 16:40
 
-# useful website: https://programmermagazine.github.io/201309/htm/article6.html
+# useful website: 
+# https://programmermagazine.github.io/201309/htm/article6.html
+# http://blog.infographics.tw/2016/04/interactive-r-with-shiny/
+
 # examples: http://shiny.rstudio.com/gallery/
 
 # Shiny的設計目標，是希望讓不懂網頁技術的R使用者，可以用最短的時間，將他們的分析結果呈現在網站上和使用者互動。而且，透過Shiny，開發者只需要懂R的語法，就可以寫網頁了！（完全不用學HTML，完全不用學javascript）
@@ -14,5 +17,5 @@ runExample("01_hello")
 str(pageWithSidebar)
 # function (headerPanel, sidebarPanel, mainPanel)  
 
-
-
+# shinyapps.io (server)
+# http://www.shinyapps.io/
