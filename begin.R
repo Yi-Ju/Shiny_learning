@@ -6,6 +6,8 @@
 
 # examples: http://shiny.rstudio.com/gallery/
 # tutorial: http://shiny.rstudio.com/tutorial/
+# DataCamp: https://www.datacamp.com/courses/building-web-applications-in-r-with-shiny
+
 
 # Shiny的設計目標，是希望讓不懂網頁技術的R使用者，可以用最短的時間，將他們的分析結果呈現在網站上和使用者互動。而且，透過Shiny，開發者只需要懂R的語法，就可以寫網頁了！（完全不用學HTML，完全不用學javascript）
 
