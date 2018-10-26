@@ -10,6 +10,7 @@
 
 # highchart函數有個特性就是，當你在指令內新增一個並不存在於這個指令的arument的時候，不會產生error，只會沒顯示效果出來
 library(highcharter)
+library(rCharts)
 
 # I found that highchart is included in the rCharts, so I decide to install the big rCharts packages
 library(devtools)
